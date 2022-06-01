@@ -59,7 +59,7 @@ hpack==3.0.0
 hstspreload==2020.3.12
 html5lib==1.0.1
 httptools==0.1.1
-httpx==0.9.3
+httpx==0.23.0
 idna==2.8
 imageio==2.6.0
 imagesize==1.1.0
